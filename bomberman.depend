@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1667996283 source:c:\users\valentine\documents\cours\ensem\2a\c\bomberman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<conio.h>
+	"panelFonction.h"
+
+1668004979 c:\users\valentine\documents\cours\ensem\2a\c\bomberman\panelfonction.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<pthread.h>
+	<windows.h>
+
+1668004979 source:c:\users\valentine\documents\cours\ensem\2a\c\bomberman\fonctions.c
+	"panelFonction.h"
+

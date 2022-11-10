@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="fonctions.c" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5124" topLine="13" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="19" />
+			<Collapse line="40" />
+			<Collapse line="90" />
+			<Collapse line="138" />
+			<Collapse line="142" />
+			<Collapse line="189" />
+			<Collapse line="217" />
+			<Collapse line="241" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1323" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="panelFonction.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="536" topLine="23" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
